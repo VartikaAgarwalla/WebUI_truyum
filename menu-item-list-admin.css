@@ -1,0 +1,43 @@
+header{
+    background-color: blue;
+    
+}
+footer{
+    background-color: gainsboro;
+    position: fixed;
+   left: 0;
+    bottom: 0;
+    width: 100%;
+   text-align: left;
+}
+#men{
+    float: right;
+}
+fod{
+    text-align: left;
+    width:120px;
+}
+.pr{
+    text-align: right;
+    width: 80px;
+}
+.ac{
+    text-align: center;
+    width: 60px;
+}
+dof{
+    text-align: center;
+    width:100px;
+}
+c{
+    text-align: center;
+    width: auto;
+}
+fd{
+    text-align: center;
+    width: 75px;
+}
+edt{
+    text-align: center;
+    width:75px;
+}
