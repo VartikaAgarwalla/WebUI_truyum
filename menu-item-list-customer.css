@@ -11,6 +11,11 @@ footer{
     width: 100%;
    text-align: left;
 }
+#image{
+    height: 30px;
+    width :30px;
+    padding-left: 3px;
+}
 #men{
     float: right;
 }
