@@ -1,0 +1,35 @@
+header{
+    background-color: blue;
+    color: whitesmoke;
+    padding: 10px;
+    font-family: arial;
+    
+}
+footer{
+    background-color: gainsboro;
+    position: fixed;
+   left: 0;
+    bottom: 0;
+    width: 100%;
+   text-align: left;
+}
+#submit{
+    background-color: blue;
+}
+#men{
+    float: right;
+}
+#pr{
+    width:100px;
+    padding-right: 10px;
+    
+}
+#ac{
+    width:50px;
+}
+#dol{
+    width:100px;
+}
+#c{
+    width:75px;
+}
